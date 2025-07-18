@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthpatelv" alt="tirthpatelv" /></a> </p>
 
-- 🔭 I’m currently working on [Malware_Detection_Using_ML](https://malwaredetectionusingml-n.streamlit.app/)
+- 🔭 I’m currently working on [Malware_Detection_Using_ML](https://malwaredetectionusingml-n.streamlit.app//)
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
